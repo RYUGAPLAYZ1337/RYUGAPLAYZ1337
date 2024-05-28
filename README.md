@@ -1,5 +1,5 @@
 <h1 align="center">Hi ☠️ , I'm SanemiPlayZ</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=passion+lead+me+here)](https://git.io/typing-svg)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryugaplayz1337&label=Profile%20views&color=0e75b6&style=flat" alt="ryugaplayz1337" /> </p>
 
