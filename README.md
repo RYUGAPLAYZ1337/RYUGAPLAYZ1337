@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **C++ ,C# ,C**
 
-- 👯 I’m looking to collaborate on [Async bot](https://discord.gg/62XWvN9AK5)
-
 - 👨‍💻 All of my projects are available at [https://discord.gg/62XWvN9AK5](https://discord.gg/62XWvN9AK5)
 
 - 📝 I regularly write articles on [https://medium.com/@gdsimpson3/creating-a-bootable-usb-stick-with-installation-media-creation-software-c2ed06a5f9e8](https://medium.com/@gdsimpson3/creating-a-bootable-usb-stick-with-installation-media-creation-software-c2ed06a5f9e8)
@@ -21,7 +19,6 @@
 
 - 📄 Know about my experiences [https://discord.gg/62XWvN9AK5](https://discord.gg/62XWvN9AK5)
 
-- ⚡ Fun fact **I d K**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
